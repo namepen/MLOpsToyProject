@@ -2,3 +2,7 @@ jupyter
 ipykernel
 pandas
 matplotlib
+streamlit
+numpy
+seaborn
+protobuf<=3.20.1
