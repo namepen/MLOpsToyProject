@@ -16,7 +16,7 @@
     - Data Validation
     - Continuous Training
     - Monitoring
-- 데이터셋은 [SMS SPAM 데이터셋](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)을 사용합니다.
+- [Kaggle SMS SPAM 데이터셋](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)을 사용합니다.
 - [Full Stack Deep Learning course, Spring 2021](https://fullstackdeeplearning.com/spring2021/)를 학습합니다.
 
 ## 환경
