@@ -1,6 +1,6 @@
 # LudWig
 
-이 디렉터리의 소스코드는 오픈소스 AutoML 라이브러리 [LudWig](https://ludwig-ai.github.io/ludwig-docs/)를 사용합니다.
+이 디렉터리의 소스코드는 오픈소스 AutoML 라이브러리 [LudWig](https://ludwig-ai.github.io/ludwig-docs/)를 사용하여 자동으로 모델링합니다.
 
 ## 환경
 
@@ -40,3 +40,11 @@ python3 -m pip install ludwig
 ### Linux
 
 `TODO`
+
+## 실행
+
+AutoML이 잘 동작하는지 확인하기 위해 일부 기능을 실행시켜볼 수 있습니다. **프로젝트 루트**에서 다음 명령을 실행합니다. 이 명령은 샘플 데이터를 이용해 자동으로 전처리, 모델링, 학습, 모델 평가를 진행합니다.
+
+```
+python3 -m src.model.ludwig.automl
+```
