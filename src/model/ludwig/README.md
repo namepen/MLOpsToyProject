@@ -1,4 +1,4 @@
-# LudWig
+# LudWig Models
 
 이 디렉터리의 소스코드는 오픈소스 AutoML 라이브러리 [LudWig](https://ludwig-ai.github.io/ludwig-docs/)를 사용하여 자동으로 모델링합니다.
 
